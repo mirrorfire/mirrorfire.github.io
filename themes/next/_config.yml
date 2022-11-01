@@ -908,7 +908,7 @@ waline:
   enable: true
 
   # Waline server address url, you should set this to your own link
-  serverURL: https://mirrorfire.github.io/
+  serverURL: https://vercel-mirrorfire.vercel.app/
 
   # Waline library CDN url, you can set this to your preferred CDN
   libUrl: https://unpkg.com/@waline/client@v2/dist/waline.js
@@ -928,10 +928,10 @@ waline:
 
   # Custom emoji
   emoji:
-  #   - https://unpkg.com/@waline/emojis@1.0.1/weibo
+    - https://unpkg.com/@waline/emojis@1.0.1/weibo
   #   - https://unpkg.com/@waline/emojis@1.0.1/alus
     - https://unpkg.com/@waline/emojis@1.0.1/bilibili
-  #   - https://unpkg.com/@waline/emojis@1.0.1/qq
+    - https://unpkg.com/@waline/emojis@1.0.1/qq
   #   - https://unpkg.com/@waline/emojis@1.0.1/tieba
   #   - https://unpkg.com/@waline/emojis@1.0.1/tw-emoji
 
@@ -949,7 +949,7 @@ waline:
   lang: zh-CN
 
   # Word limit, no limit when setting to 0
-  # wordLimit: 0
+  wordLimit: 100
 
   # Whether enable login, can choose from 'enable', 'disable' and 'force'
   login: enable
