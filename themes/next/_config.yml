@@ -984,3 +984,6 @@ waline:
   wordLimit: 100
   #   # Whether enable login, can choose from 'enable', 'disable' and 'force'
   login: enable
+
+local_search:
+  enable: true
