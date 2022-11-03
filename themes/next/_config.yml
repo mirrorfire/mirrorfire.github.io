@@ -311,8 +311,8 @@ post_navigation: left
 
 # TagCloud settings for tags page.
 tagcloud:
-  min: 20 # Minimum font size in px
-  max: 20 # Maximum font size in px
+  min: 10 # Minimum font size in px
+  max: 30 # Maximum font size in px
   amount: 200 # Total amount of tags
   orderby: name # Order of tags
   order: 1 # Sort order
@@ -983,7 +983,7 @@ waline:
   # Word limit, no limit when setting to 0
   wordLimit: 100
   #   # Whether enable login, can choose from 'enable', 'disable' and 'force'
-  login: enable
+  login: disable
 
 # local_search:
 #   enable: true
