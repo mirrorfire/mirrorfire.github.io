@@ -1,7 +1,7 @@
 ---
-title: 【月食1】 - 初试空气炸锅
+title: 【月食记1】 - 初试空气炸锅
 date: 2022-11-07
-tags: 月食
+tags: 月食记
 categories: 生活记录
 comments: true
 ---
