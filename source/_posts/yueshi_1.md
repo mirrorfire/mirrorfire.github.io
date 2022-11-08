@@ -1,12 +1,13 @@
 ---
 title: 【月食1】 - 初试空气炸锅
+date: 2022-11-07
 tags: 月食
 categories: 生活记录
 comments: true
 ---
 
 最近买了飞利浦9200的空气炸锅，简单记录下我们这个月用它烹饪的产品（厚脸皮）
-
+<!-- more -->
 <font color=gray>孜然牛肉粒</font>
 ![图片](https://files.catbox.moe/wtqo56.jpg)
 
